@@ -22,6 +22,7 @@ Public notices record changes to **particular objects and stages**: a cutoff *ta
 
 | Resource | What to expect |
 | --- | --- |
+| [Two-minute reviewer guide](REVIEWER_GUIDE.md) | Question, focal evidence, checks and unfinished author review |
 | [Research overview](paper/RESEARCH_OVERVIEW.md) | Research question, the three case comparisons, findings and authorship statement |
 | [Working report status](report/README.md) | Where the full 10-page report belongs, its current status and release requirements |
 | [Methods and codebook](methodology/METHODOLOGY.md) | Unit of analysis, classifications, case selection and evidence limits |
